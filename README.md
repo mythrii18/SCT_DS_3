@@ -45,4 +45,4 @@ requirements.txt → dependencies
 
 README.md, .gitignore
 
-🔗 GitHub Repository: SCT_DS_3
+🔗 GitHub Repository: [SCT_DS_3](https://github.com/mythrii18/SCT_DS_3/tree/main)
