@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Outputs (plots, models)
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional: uncomment if not uploading dataset)
+# data/*.csv
